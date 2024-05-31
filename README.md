@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on honing my skills as a Software Engineer and expanding my expertise in various technologies.<br>🌱 I’m currently learning new frameworks and tools to stay up-to-date with the latest advancements in the industry.<br>👯 I’m looking to collaborate on exciting and challenging projects that allow me to leverage my experience in ReactJS and NextJS.<br>🤔 I’m looking for help with exploring new areas of software development and expanding my knowledge beyond my current focus.<br>💬 Ask me about frontend development, ReactJS, NextJS, or any other related topics—I'm always eager to share my knowledge and insights.<br>📫 How to reach me: andy.dinh1997@gmail.com
+🔭 I’m currently working on honing my skills as a Software Engineer and expanding my expertise in various technologies.<br>
+🌱 I’m currently learning new frameworks and tools to stay up-to-date with the latest advancements in the industry.<br>
+👯 I’m looking to collaborate on exciting and challenging projects that allow me to leverage my experience in ReactJS and NextJS.<br>
+🤔 I’m looking for help with exploring new areas of software development and expanding my knowledge beyond my current focus.<br>
+💬 Ask me about frontend development, ReactJS, NextJS, or any other related topics—I'm always eager to share my knowledge and insights.<br>
+📫 How to reach me: andy.dinh1997@gmail.com
 
 
 ## 🌐 Socials:

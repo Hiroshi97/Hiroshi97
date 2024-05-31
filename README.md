@@ -1,4 +1,8 @@
 # 💫 About Me:
+Name: **Andy - Nguyen The Anh Dinh**<br>
+Currently working as **Middle Full-stack Software Developer** at [Journey Horizon](journeyh.io) (2021 - present)<br>
+Bachelor of Computer Science - Swinburne University of Technology (2017 - 2020)<br>
+
 🔭 I’m currently working on honing my skills as a Software Engineer and expanding my expertise in various technologies.<br>
 🌱 I’m currently learning new frameworks and tools to stay up-to-date with the latest advancements in the industry.<br>
 👯 I’m looking to collaborate on exciting and challenging projects that allow me to leverage my experience in ReactJS and NextJS.<br>
